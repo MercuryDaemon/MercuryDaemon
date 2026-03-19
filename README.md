@@ -2,7 +2,7 @@
 
 - Email: <zhukovich.nikita.work@gmail.com>
 - LinkedIn: [linkedin.com/in/nikita-zhukovich-7193003b8](http://www.linkedin.com/in/nikita-zhukovich-7193003b8)
-- GitHub: [github.com/NikitaZhukovich](https://github.com/NikitaZhukovich)
+- GitHub: [github.com/MercuryDaemon](https://github.com/MercuryDaemon)
 - Timezone: GMT +3
 
 ---
